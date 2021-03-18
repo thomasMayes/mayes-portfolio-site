@@ -6,8 +6,8 @@ export const Navbar = ()=>{
             <Grid item container xs={4}>
                 <Grid container justify ='center'item xs={3}>
                     <Typography >
-                        <Link href="/tttt">
-                        Projects
+                        <Link href="/tttt" color='textPrimary'>
+                        Resume
                         </Link>
                     </Typography>
                 </Grid>
@@ -21,14 +21,14 @@ export const Navbar = ()=>{
                 <Grid container justify ='center' item xs={3}>
                     <Typography >
                         <Link href="/tttt">
-                        Projects
+                        Github
                         </Link>
                     </Typography>
                 </Grid>
                 <Grid container justify ='center' item xs={3}>
                     <Typography >
                         <Link href="/tttt">
-                        Projects
+                       Contact
                         </Link>
                     </Typography>
                 </Grid>
