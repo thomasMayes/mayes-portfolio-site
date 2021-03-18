@@ -1,5 +1,5 @@
 import { Landing} from './pages/Landing.Page'
-import {Navbar} from './components/Navbar'
+// import {Navbar} from './components/Navbar'
 
 function App() {
   return (
