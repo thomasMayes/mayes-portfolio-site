@@ -14,7 +14,7 @@ export const Landing = ()=>{
         }}>
        <h1 style={{fontFamily: 'Josefin Sans', fontSize: 72, letterSpacing: 15, textAlign:'center'}}>THOMAS MAYES</h1>
        {/* <h1 style={{fontFamily: 'Josefin Sans', fontSize: 52, letterSpacing: 10}}>Full-Stack Developer</h1> */}
-     <h1 style={{fontFamily: 'Josefin Sans',  textAlign:'center', color: '#00000088', marginTop:'100px' }}>Hi. My name is Thomas Mayes and I write code.</h1>
+     <h1 style={{fontFamily: 'Josefin Sans',  textAlign:'center' }}>Hi. My name is Thomas Mayes and I write code.</h1>
      {/* <h4 style={{fontFamily: 'Josefin Sans'}}>tlmayes731@gmail.com</h4> */}
 <SocialLinks/>
     
